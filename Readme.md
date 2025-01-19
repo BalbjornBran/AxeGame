@@ -1,5 +1,4 @@
-#Axe Game
-By Balbjorn Bran
+# Axe Game By Balbjorn Bran
 	
 We are going to create a very simple "Axe Game" using Raylib's library in c++ language.
 This exercise purpose is to learn the basics of c++. The game is extremely simple, its 
