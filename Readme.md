@@ -1,4 +1,4 @@
-Axe Game
+#Axe Game
 By Balbjorn Bran
 	
 We are going to create a very simple "Axe Game" using Raylib's library in c++ language.
